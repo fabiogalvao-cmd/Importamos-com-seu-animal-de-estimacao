@@ -10,4 +10,4 @@
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <br>
 
-<img src="https://github.com/fabiogalvao-cmd/meu-terceiro-projeto-git/blob/master/assets/Wide%20coverage%20location.png"/>
+<img src="https://github.com/fabiogalvao-cmd/Importamos-com-seu-animal-de-estimacao/blob/master/assets/We%20care.png"/>
